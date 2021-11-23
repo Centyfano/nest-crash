@@ -18,7 +18,7 @@ A simple create-read-update-delete (CRUD) RESTful API application using the [Nes
 $ npm install
 ```
 ## Setup
-* Navigate to `src/config`, create a `.ts` file for storing your environment variables
+* In `src/`, create a `config/` directory and in it, a `.ts` file, for storing your environment variables
 * In the file, write 
 ```
 export default {
